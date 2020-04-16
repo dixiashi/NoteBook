@@ -1,6 +1,6 @@
 ## Reference
-https://blog.walterlv.com/post/editor-config-for-visual-studio.html
-https://docs.microsoft.com/zh-cn/visualstudio/ide/editorconfig-language-conventions?view=vs-2017
+[在 Visual Studio 中使用 EditorConfig 统一代码风格（含原生与插件）](https://blog.walterlv.com/post/editor-config-for-visual-studio.html)    
+[.NET 编码约定 ](https://docs.microsoft.com/zh-cn/visualstudio/ide/editorconfig-language-conventions?view=vs-2017)
 
 ```
 # To learn more about .editorconfig see https://aka.ms/editorconfigdocs
